@@ -14,12 +14,12 @@ namespace HomeWork_Variable
             byte ageFriend;
             uint iqFriend;
             float salaryFriend;
-            bool playerHaveMoney;
+            bool isHaveMoney;
             double myIq;
             long amountBedt;
             char diskName;
             short amountDay;
-            object textDialog;
+            int amountGold;
         }
     }
 }
